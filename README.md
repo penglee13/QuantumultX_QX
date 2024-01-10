@@ -10,4 +10,4 @@ Quantumult X 完整版新手教程（图文结合非常详细+每一步演示+�
 
 7MA出行自动签到：https://github.com/zhacha222/NoteJS/tree/main
 
-TikTok(免拔卡)解锁：https://github.com/Semporia/TikTok-Unlock最好不要升级，否则容易掉。
+TikTok(免拔卡)解锁：https://github.com/Semporia/TikTok-Unlock 最好不要升级，否则容易掉。
